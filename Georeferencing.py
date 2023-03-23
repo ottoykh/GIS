@@ -1,5 +1,5 @@
-!pip install gdal
-!pip install osr 
+$pip install gdal
+$pip install osr 
 
 
 import streamlit as st
