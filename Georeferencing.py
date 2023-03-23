@@ -1,5 +1,3 @@
-conda install -c conda-forge gdal
-
 import streamlit as st
 import gdal
 import osr
