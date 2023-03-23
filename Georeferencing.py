@@ -1,6 +1,4 @@
-$pip install gdal
-$pip install osr 
-
+conda install -c conda-forge gdal
 
 import streamlit as st
 import gdal
